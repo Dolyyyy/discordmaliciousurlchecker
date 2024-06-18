@@ -1,0 +1,32 @@
+2024-06-18T21:59:50.892Z - [LOGS] Checking URL : https://sc.link/kKrLU...
+2024-06-18T21:59:51.652Z - [LOGS] Scan submitted. UUID: 1cfa12a1-119e-4390-9571-39a7c54eae65
+2024-06-18T22:00:01.656Z - [LOGS] Attempting to retrieve results... (1/12)
+2024-06-18T22:00:02.327Z - [LOGS] Received scan result for URL: https://sc.link/kKrLU
+2024-06-18T22:00:02.328Z - [LOGS] Malicious URL detected: https://sc.link/kKrLU
+2024-06-18T22:00:02.676Z - [LOGS - MALICIOUS URL DETECTED] ⚠️ Le lien envoyé par <@464356448231489546> (464356448231489546) a été supprimé car il pourrait contenir un virus.
+2024-06-18T22:00:02.680Z - [LOGS] Erreur lors de la récupération du résultat de l'analyse:
+2024-06-18T22:00:30.591Z - [LOGS] Starting bot and all message links checks.
+2024-06-18T22:00:38.159Z - [LOGS] Starting bot and all message links checks.
+2024-06-18T22:00:41.202Z - [LOGS] Checking URL : https://sc.link/kKrLU...
+2024-06-18T22:00:41.512Z - [LOGS] Scan submitted. UUID: 6a00ccfe-678b-437e-8d5f-6ef5e9b54292
+2024-06-18T22:00:51.517Z - [LOGS] Attempting to retrieve results... (1/12)
+2024-06-18T22:00:52.824Z - [LOGS] Received scan result for URL: https://sc.link/kKrLU
+2024-06-18T22:00:52.826Z - [LOGS] Malicious URL detected: https://sc.link/kKrLU
+2024-06-18T22:00:53.055Z - [⚠️ LOGS - MALICIOUS URL DETECTED ⚠️] Le lien envoyé par dolyyy (464356448231489546) a été supprimé car il pourrait contenir un virus.
+2024-06-18T22:00:53.055Z - [LOGS] Erreur lors de la récupération du résultat de l'analyse:
+2024-06-18T22:01:15.007Z - [LOGS] Starting bot and all message links checks.
+2024-06-18T22:01:20.857Z - [LOGS] Checking URL : https://sc.link/kKrLU...
+2024-06-18T22:01:21.457Z - [LOGS] Scan submitted. UUID: 6b5309c1-3a25-4c55-b2e5-99729105785a
+2024-06-18T22:01:31.458Z - [LOGS] Attempting to retrieve results... (1/12)
+2024-06-18T22:01:32.017Z - [LOGS] Received scan result for URL: https://sc.link/kKrLU
+2024-06-18T22:01:32.018Z - [LOGS] Malicious URL detected: https://sc.link/kKrLU
+2024-06-18T22:01:32.261Z - [⚠️ LOGS - MALICIOUS URL DETECTED ⚠️] Le lien envoyé par dolyyy (464356448231489546) dans le channel test-bot (1092066575596670986) a été supprimé car il pourrait contenir un virus.
+2024-06-18T22:01:32.262Z - [LOGS] Erreur lors de la récupération du résultat de l'analyse:
+2024-06-18T22:02:04.938Z - [LOGS] Starting bot and all message links checks.
+2024-06-18T22:02:15.964Z - [LOGS] Checking URL : https://sc.link/kKrLU...
+2024-06-18T22:02:16.560Z - [LOGS] Scan submitted. UUID: a377f0ff-ca4d-4ae3-bbac-e98705094181
+2024-06-18T22:02:26.563Z - [LOGS - RETRY] Attempting to retrieve results... (1/12)
+2024-06-18T22:02:27.610Z - [LOGS] Received scan result for URL: https://sc.link/kKrLU
+2024-06-18T22:02:27.611Z - [LOGS] Malicious URL detected: https://sc.link/kKrLU
+2024-06-18T22:02:27.915Z - [⚠️ LOGS - MALICIOUS URL DETECTED ⚠️] Le lien envoyé par dolyyy (464356448231489546) dans le channel #test-bot (1092066575596670986) a été supprimé car il pourrait contenir un virus.
+2024-06-18T22:02:27.916Z - [LOGS] Erreur lors de la récupération du résultat de l'analyse:
